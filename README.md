@@ -15,4 +15,3 @@ This repository contains basic exercises and tests for learning and practicing O
 ## Purpose
 
 This repo is for practice and testing purposes only.
-```
