@@ -10,3 +10,4 @@ class DemoClass:
     @staticmethod
     def static_method():
         return ("Static method called",)
+    
