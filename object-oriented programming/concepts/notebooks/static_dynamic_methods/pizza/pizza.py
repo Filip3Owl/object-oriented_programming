@@ -1,7 +1,7 @@
 class Pizza:
 
     def __init__(self, toppings):
-        self.toppings = toppings
+        self.toppings = list(toppings)
 
     # __repr__ provides a string representation for when you need to display an object.
     def __repr__(self):
